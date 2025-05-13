@@ -4,7 +4,7 @@ import { Link } from "expo-router";
 const Contact = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Contact Page</Text>
+      <Text style={[styles.title, { color: "purple" }]}>Contact Page</Text>
       <Link href="/" style={styles.link}>
         Back Home
       </Link>
