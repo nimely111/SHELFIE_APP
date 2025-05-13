@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontWeight: "bold",
-    fontSize: 18,
+    fontSize: 20,
   },
   link: {
     marginVertical: 10,
