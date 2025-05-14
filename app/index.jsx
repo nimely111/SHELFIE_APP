@@ -4,7 +4,7 @@ import { Link } from "expo-router";
 
 // themed components
 import ThemeView from "../components/ThemeView";
-import ThemedLogo from "../components/ThemeView";
+import ThemedLogo from "../components/ThemedLogo";
 
 const Home = () => {
   return (
